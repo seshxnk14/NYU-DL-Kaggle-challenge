@@ -1,0 +1,15 @@
+# Datasets and extracted images
+data/
+data.zip
+train_images/
+test_images/
+
+# Model checkpoints
+*.pt
+*.pth
+*.ckpt
+
+# Generated files
+runs/
+__pycache__/
+.ipynb_checkpoints/
